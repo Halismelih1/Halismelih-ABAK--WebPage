@@ -3,7 +3,7 @@
 
 
 
-## Özellikler:
+## Features
 
 - Responsive
 - Original
@@ -12,10 +12,10 @@
 
 
   
-## Kullanılan Teknolojiler:
+## Used technologies
 
--HTML5 
--CSS3
+*HTML5 
+*CSS3
 
   
 ## Screenshot
