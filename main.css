@@ -68,6 +68,8 @@ p{
 nav ul{
     display: flex;
     justify-content: space-evenly;
+    
+    
 }
 
 nav ul li{
@@ -75,11 +77,15 @@ nav ul li{
     margin-top: 3%;
     
     
+    
+    
 }
 
 nav ul li a{
     color: #868282;
     text-transform: uppercase;
+    
+    
     
     
     
