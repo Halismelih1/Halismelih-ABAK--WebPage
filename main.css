@@ -349,7 +349,6 @@ transition: 0.3s ease-in-out;
 
 
 
-
 /* about section */
 
 @media(max-width:768px){
@@ -444,9 +443,14 @@ background: linear-gradient(-135deg, #f1b341 0 50%, rgb(254, 254, 255) 50% 100%)
 /* contact section */
 
 #contact{
-    background-image: url(/images/bg/bg1.jpg) ;
+
+background: rgb(0,0,0);
+background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(255,255,255,1) 100%, rgba(252,191,73,1) 100%);
+
+
+    /* background-image: url(/images/bg/bg1.jpg) ;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     
 }
 
